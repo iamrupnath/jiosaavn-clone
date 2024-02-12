@@ -15,7 +15,7 @@ const AlbumDetails = () => {
   const { id } = useParams();
 
   const getAlbumDetails = async () => {
-    const res = await axios.get(`https://saavn.me/albums?id=${id}`);
+    const res = await axios.get(`https://saavn.dev/albums?id=${id}`);
     const { data } = await res.data;
     console.log(data);
     setAlbum(data);
