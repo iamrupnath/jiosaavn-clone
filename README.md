@@ -45,5 +45,5 @@ npm start
 ## Credits
 
 - This project utilizes the JioSaavn API for fetching music data.
-- Built with ❤️ by [Rupnath Shaw]([https://github.com/yourusername](https://github.com/iamrupnath)).
+- Built with ❤️ by [Rupnath Shaw](https://github.com/iamrupnath).
 
